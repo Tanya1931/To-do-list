@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "id":1,
+            "checked": false,
+            "item": "Go for a walk"
+        },
+        {
+            "id": 2,
+            "checked": false,
+            "item": "Eat vitamins today"
+        },
+        {
+            "id": 3,
+            "checked":false,
+            "item": "Take proper diet"
+        }
+    ]
+}
